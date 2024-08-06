@@ -1,15 +1,12 @@
 # SAP-CAPM
 <h2>First SAP_CAPM TASK</h2></br>
-<table>
-    <caption>It contains these folders and files, following our recommended project layout</caption>
-    <thead>
+
         <tr>
             <th>File Or Folder</th>
             <th>Purpose</th>
            
         </tr>
-    </thead>
-    <tbody>
+  
         <tr>
             <td>app/</td>
             <td>content for UI frontends goes here</td>
@@ -36,8 +33,7 @@
            
         </tr>
      
-    </tbody>
-</table>
+   
 first of all ..
 <h3>File Structure</h3>
 I learn a file structure how it's connect to each other.
